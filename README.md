@@ -1,1 +1,1 @@
-# Practise Go
+# Practice Go
